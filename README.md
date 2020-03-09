@@ -18,7 +18,7 @@ One for the ActionBar like bold and justify buttons which you can place wherever
 
 # Super easy to include
 No need to install or merge this file to your existing project.
-Just download the two components in this Repo,
+Just download the two components (TextEditor.vue, TextEditorActions.vue) from this Repo,
 
 Paste them to your components directory and include them in your script
 
