@@ -30,7 +30,7 @@ Paste them to your components directory and include them in your script
 		components: {
 		    TextEditor,
 		    TextEditorActions
-		  },
+		},
 	  }
 	  ...
 
