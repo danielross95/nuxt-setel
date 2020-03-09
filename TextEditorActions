@@ -1,0 +1,24 @@
+<template>
+  <div class="textEditorActionBar">
+    <button onclick="document.execCommand('bold');">bold</button>
+    <button onclick="document.execCommand('italic');">italic</button>
+    <button onclick="document.execCommand('justifyCenter');">
+      Center
+    </button>
+    <button onclick="document.execCommand('justifyLeft');">
+      Left
+    </button>
+    <button onclick="document.execCommand('underline');">line</button>
+  </div>
+</template>
+<script>
+export default {
+  name: 'TextEditorActions'
+}
+</script>
+<style scoped>
+.textEditorActionBar button {
+  padding: 7px 10px;
+  border: 1px solid #333;
+}
+</style>
