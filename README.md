@@ -1,4 +1,4 @@
-# nuxt-setel Super easy Text-Editor for Nuxt.js
+# Super easy Text-Editor for Nuxt.js
 **It can't do much, but it's okay**
 This is a super easy Text-Editor light for Nuxt.js using Vue.js
 which can be included and extended to your existing Nuxt.js project very fast.
